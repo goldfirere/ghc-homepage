@@ -83,9 +83,7 @@ Transactional Memory (STM)</a></b>.
       and contributions!
       </p>
 
-      <div style="background: #e0e0e0; margin-top: 30px">
-      <p>This site is maintained by <a href="mailto:marlowsd@gmail.com">Simon Marlow</a>.  Please send me comments, questions and reports of any problems to do with the site.</p>
-	  </div>
+      <p>This site is maintained on <a href="https://github.com/haskell-infra/ghc-homepage">GitHub</a>. Please post Issues or send Pull Requests if you spot a problem.</p>
 	</div>
 
 <!--#include file="ghc-footer.shtml"-->
