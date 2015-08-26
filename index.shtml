@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE html 
+<!DOCTYPE html
      PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -24,48 +24,6 @@
       <dd>GHC 7.10.1 Released! [<a href="download_ghc_7_10_1">download</a>]</dd>
       <dt><strong>23 December 2014</strong></dt>
       <dd>GHC 7.8.4 Released! [<a href="download_ghc_7_8_4">download</a>]</dd>
-      <dt><strong>11 July 2014</strong></dt>
-      <dd>GHC 7.8.3 Released! [<a href="download_ghc_7_8_3">download</a>]</dd>
-      <dt><strong>12 April 2014</strong></dt>
-      <dd>GHC 7.8.2 Released! [<a href="download_ghc_7_8_2">download</a>]</dd>
-      <dt><strong>9 April 2014</strong></dt>
-      <dd>GHC 7.8.1 Released! [<a href="download_ghc_7_8_1">download</a>]</dd>
-      <dt><strong>21 April 2013</strong></dt>
-      <dd>GHC 7.6.3 Released! [<a href="download_ghc_7_6_3">download</a>]</dd>
-      <dt><strong>29 January 2013</strong></dt>
-      <dd>GHC 7.6.2 Released! [<a href="download_ghc_7_6_2">download</a>]</dd>
-      <dt><strong>6 September 2012</strong></dt>
-      <dd>GHC 7.6.1 Released! [<a href="download_ghc_7_6_1">download</a>]</dd>
-      <dt><strong>10 June 2012</strong></dt>
-      <dd>GHC 7.4.2 Released! [<a href="download_ghc_7_4_2">download</a>]</dd>
-      <dt><strong>2 February 2012</strong></dt>
-      <dd>GHC 7.4.1 Released! [<a href="download_ghc_7_4_1">download</a>]</dd>
-      <dt><strong>11 November 2011</strong></dt>
-      <dd>GHC 7.2.2 Released! [<a href="download_ghc_7_2_2">download</a>]</dd>
-      <dt><strong>9 August 2011</strong></dt>
-      <dd>GHC 7.2.1 Released! [<a href="download_ghc_7_2_1">download</a>]</dd>
-      <dt><strong>15 June 2011</strong></dt>
-      <dd>GHC 7.0.4 Released! [<a href="download_ghc_7_0_4">download</a>]</dd>
-      <dt><strong>27 March 2011</strong></dt>
-      <dd>GHC 7.0.3 Released! [<a href="download_ghc_7_0_3">download</a>]</dd>
-      <dt><strong>3 March 2011</strong></dt>
-      <dd>GHC 7.0.2 Released! [<a href="download_ghc_7_0_2">download</a>]</dd>
-      <dt><strong>16 November 2010</strong></dt>
-      <dd>GHC 7.0.1 Released! [<a href="download_ghc_7_0_1">download</a>]</dd>
-      <dt><strong>12 June 2010</strong></dt>
-      <dd>GHC 6.12.3 Released! [<a href="download_ghc_6_12_3">download</a>]</dd>
-      <dt><strong>22 April 2010</strong></dt>
-      <dd>GHC 6.12.2 Released! [<a href="download_ghc_6_12_2">download</a>]</dd>
-      <dt><strong>14 December 2009</strong></dt>
-      <dd>GHC 6.12.1 Released! [<a href="download_ghc_6_12_1">download</a>]</dd>
-      <dt><strong>16 July 2009</strong></dt>
-      <dd>GHC 6.10.4 Released! [<a href="download_ghc_6_10_4">download</a>]</dd>
-      <dt><strong>9 May 2009</strong></dt>
-      <dd>GHC 6.10.3 Released! [<a href="download_ghc_6_10_3">download</a>]</dd>
-      <dt><strong>1 April 2009</strong></dt>
-      <dd>GHC 6.10.2 Released! [<a href="download_ghc_6_10_2">download</a>]</dd>
-      <dt><strong>4 November 2008</strong></dt>
-      <dd>GHC 6.10.1 Released! [<a href="download_ghc_6_10_1">download</a>]</dd>
       </dl>
 
       <h2>What is GHC?</h2>
